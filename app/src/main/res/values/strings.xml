@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvels Task</string>
+    <string name="empty_list">No Data Found</string>
+    <string name="NO_INTERNET_CONNECTION">No Internet Connection!</string>
+    <string name="load_data_once">Load Data One Time Every Day</string>
+    <string name="loading">Please wait..</string>
+</resources>
