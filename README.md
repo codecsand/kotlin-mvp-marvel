@@ -1,4 +1,4 @@
-# kotlin-mvp-coroutines
+# Kotlin MVP Marvel
  Kotlin MVP Architecture using coroutines and retrofit including room, no rxjava
  
 **Project Functionality:**
